@@ -18,7 +18,7 @@ the_post();
                     <h2 class="card-title">Your Local Dev Website</h2>
                 </div>
                 <div class="card-footer">
-                    <a href="#" class="button-main github"><i class="fa fa-github" aria-hidden="true"></i>VIEW GITHUB</a>
+                    <a href="https://github.com/HeyAero/yourlocaldev-theme" class="button-main github"><i class="fa fa-github" aria-hidden="true"></i>VIEW GITHUB</a>
                 </div>
             </div>
         </div>
