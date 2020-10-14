@@ -33,7 +33,7 @@ the_post();
             <div class="col-md-7 px-5 pb-5">
                 <h2>I'm Aaron, a web freelancer currently on the job hunt. I offer freelance on Fiverr as I build up my skills.</h2>
                 <p>I am a University of York Graduate specialising in Computer Science. I currently reside in the North-West of the UK. Currently I am learning more about the WordPress CMS, E-Commerce plugins such as WooCommerce and looking into back-end frankworks.</p>
-                <p>I plan to learn more about front-end development framworks such as Vue.js and Angular. I also want to learn about back-end development frameworks such as Laravel.</p>
+                <p>I plan to learn more about front-end development frameworks such as Vue.js and Angular. I also want to learn about back-end development frameworks such as Laravel.</p>
                 <div class="my-4">
                     <a href="/about" class="button-main">LEARN MORE ABOUT ME</a>
                 </div>
