@@ -1,0 +1,21 @@
+footer {
+  background-color: #ffdc94;
+  outline: solid #eec164 3px;
+  padding-top: 20px;
+
+  hr {
+    border-width: 2px;
+    color: #eec164;
+    background-color: #8e4242;
+    width: 100px;
+  }
+
+  a {
+    color: #706142;
+  }
+
+  a:hover {
+    text-decoration: none;
+    color: #4c422c;
+  }
+}

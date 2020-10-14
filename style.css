@@ -1,0 +1,324 @@
+/*
+Theme Name: Your Local Dev Theme
+Theme URI: #
+Author: Aaron Yates
+Author URI: https://yourlocaldev.com
+Description: Temp
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #fff; }
+
+h1 {
+  font-family: "Pacifico", cursive;
+  color: white;
+  font-size: 3em;
+  font-weight: lighter; }
+
+h2 {
+  font-family: "Pacifico", cursive;
+  color: #8e4242;
+  font-size: 2.5em;
+  font-weight: lighter; }
+
+p {
+  font-weight: bold;
+  font-size: 1.2em; }
+
+#mainContent h1 {
+  font-size: 4em;
+  color: #8e4242; }
+
+.jumbotron-second h1 {
+  color: white; }
+
+#undergroundDiv p {
+  color: white; }
+
+#houseDiv p {
+  color: black; }
+
+#mineDiv h1 {
+  color: #fec142; }
+
+#mineDiv h2 {
+  color: #fec142; }
+
+footer {
+  color: #706142; }
+  footer h1 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #8e4242; }
+
+#aboutMe {
+  color: #8e4242; }
+  #aboutMe h1 {
+    color: #8e4242; }
+
+.about-me-desc {
+  color: #8e4242; }
+
+.card h5 {
+  color: #8e4242;
+  font-weight: bold; }
+
+.card p {
+  color: black; }
+
+.card-skills h5 {
+  color: white;
+  font-weight: bold; }
+
+.card-skills p {
+  color: black; }
+
+#skillsPage h1 {
+  font-size: 5em;
+  color: #e14b4b; }
+
+#skillsPage h2 {
+  color: white; }
+
+#portfolioPage .card h2 {
+  color: white;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 500; }
+
+#portfolioPage h1 {
+  color: #e14b4b; }
+
+.round-button {
+  min-width: 60px;
+  max-width: 120px;
+  text-decoration: none;
+  display: inline-block;
+  outline: none;
+  border-style: solid;
+  border-color: white;
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 100%;
+  overflow: none;
+  text-align: center;
+  padding: 0; }
+
+.round-button:before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 100%; }
+
+.round-button:hover {
+  border-color: grey;
+  color: grey; }
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 90%; }
+
+.button-main {
+  background-color: #8e4242;
+  border-radius: 25px;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold; }
+
+.button-main i {
+  margin-right: 10px; }
+
+.fiverr {
+  background-color: #00b22d; }
+
+.github {
+  background-color: #007daf; }
+
+.phone-menu-button {
+  padding-bottom: 20px; }
+
+#mainContent a, #portfolioPage a {
+  color: #d5d5d5; }
+
+#mainContent a:hover, #portfolioPage a:hover {
+  text-decoration: none;
+  color: white; }
+
+.card {
+  background-color: #ffdc94; }
+
+.card-skills {
+  background-color: rgba(0, 0, 0, 0); }
+
+@media (max-width: 578px) {
+  .card {
+    margin-top: 50px; }
+  .card-skills {
+    margin-top: 50px; } }
+
+#topNav {
+  padding-top: 20px;
+  background-color: #ffdc94;
+  outline: solid #eec164 3px; }
+
+#topNav a {
+  color: #b19a6b;
+  font-weight: bold; }
+
+#topNav a p {
+  font-size: 0.9em; }
+
+#topNav a:hover {
+  color: #c9ae78; }
+
+#topNav a:active {
+  color: #c9ae78; }
+
+.nav-list {
+  list-style-type: none; }
+
+footer {
+  background-color: #ffdc94;
+  outline: solid #eec164 3px;
+  padding-top: 20px; }
+  footer hr {
+    border-width: 2px;
+    color: #eec164;
+    background-color: #8e4242;
+    width: 100px; }
+  footer a {
+    color: #706142; }
+  footer a:hover {
+    text-decoration: none;
+    color: #4c422c; }
+
+#aboutMe {
+  background-color: #dbf3fd;
+  overflow: hidden;
+  margin-top: 120px;
+  background-image: url("http://yourlocaldev.com/wp-content/uploads/2020/10/cloud-wave.png");
+  background-repeat: repeat; }
+
+#contactMe {
+  background-color: #dbf3fd;
+  overflow: hidden;
+  margin-top: 120px;
+  margin-bottom: 60px;
+  background-image: url("http://yourlocaldev.com/wp-content/uploads/2020/10/cloud-wave.png");
+  background-repeat: repeat; }
+  #contactMe a {
+    color: black; }
+  #contactMe a:hover {
+    color: #181818; }
+
+.post-card {
+  margin: 10px 0 10px 0;
+  padding: 5em;
+  background-color: white;
+  outline: double 10px #8e4242;
+  color: black; }
+
+body {
+  background-color: #dbf3fd;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+.overflow-addon {
+  overflow: hidden; }
+
+.canvas-holder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1; }
+
+.welcome-div {
+  margin-top: 50vh;
+  transform: translateY(-50%); }
+
+.welcome-div-after {
+  height: 100vh; }
+
+.earth-img {
+  position: absolute;
+  overflow: hidden;
+  height: 125vh;
+  transform: translate(-25%, -50%); }
+
+.ship-img {
+  height: 80vh;
+  position: absolute;
+  overflow: hidden;
+  top: 15%;
+  left: 75%;
+  transform: translate(-50%, 0%); }
+
+#mainContent {
+  background-color: #dbf3fd;
+  overflow: hidden; }
+
+#main-content-div {
+  margin-top: 120px;
+  color: white;
+  background-image: url("http://yourlocaldev.com/wp-content/uploads/2020/10/cloud-wave.png");
+  background-repeat: repeat; }
+
+#air-img {
+  height: 70vh; }
+
+#house-img {
+  height: 50vh; }
+
+#zeplin-holder {
+  max-height: 100%; }
+
+.jumbotron-first {
+  background-color: #ffdc94; }
+
+.jumbotron-second {
+  margin-top: -25px;
+  background-color: #a6ce39; }
+
+.jumbotron-third {
+  margin-top: -25px;
+  background-color: #393939; }
+
+#undergroundDiv {
+  margin-top: -35px;
+  padding-top: 35px;
+  background-image: url("http://yourlocaldev.com/wp-content/uploads/2020/10/dirt-back.png");
+  background-repeat: repeat; }
+
+#mineDiv {
+  margin-top: -35px;
+  padding-top: 35px;
+  background-image: url("http://yourlocaldev.com/wp-content/uploads/2020/10/mine-fin.png");
+  background-repeat: repeat; }
+
+#landingPage {
+  overflow: hidden;
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */ }
+
+#landingPage::-webkit-scrollbar {
+  display: none; }
+
+#skillsPage {
+  background-image: url("http://yourlocaldev.com/wp-content/uploads/2020/10/mine-finblur.png");
+  background-repeat: repeat;
+  padding: 120px 0px 20px 0px; }
+
+.skill-header hr {
+  padding-top: 2px;
+  background-color: white; }

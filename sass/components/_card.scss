@@ -1,0 +1,17 @@
+.card {
+  background-color: #ffdc94;
+}
+
+.card-skills {
+  background-color: rgba(0,0,0,0);
+}
+
+@media (max-width: 578px) {
+  .card {
+    margin-top: 50px;
+  }
+
+  .card-skills {
+    margin-top: 50px;
+  }
+}

@@ -1,0 +1,26 @@
+#topNav {
+  padding-top: 20px;
+  background-color: #ffdc94;
+  outline: solid #eec164 3px;
+}
+
+#topNav a {
+  color: #b19a6b;
+  font-weight: bold;
+}
+
+#topNav a p {
+  font-size: 0.9em;
+}
+
+#topNav a:hover {
+  color: #c9ae78;
+}
+
+#topNav a:active {
+  color: #c9ae78;
+}
+
+.nav-list {
+  list-style-type: none;
+}

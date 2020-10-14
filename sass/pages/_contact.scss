@@ -1,0 +1,25 @@
+#contactMe {
+  background-color: #dbf3fd;
+  overflow: hidden;
+  margin-top: 120px;
+  margin-bottom: 60px;
+  background-image: url("http://yourlocaldev.com/wp-content/uploads/2020/10/cloud-wave.png");
+  background-repeat:repeat;
+
+  a {
+    color: black;
+  }
+
+  a:hover {
+    color: #181818;
+  }
+}
+
+.post-card {
+  margin: 10px 0 10px 0;
+  padding: 5em;
+  background-color: white;
+  outline: double 10px #8e4242;
+  color: black;
+}
+

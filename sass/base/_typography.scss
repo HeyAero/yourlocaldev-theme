@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
+$font-main: 'Source Sans Pro', sans-serif;
+$font-title: 'Pacifico', cursive;
+$primary-text-color: #fff;
+
+body {
+  font-family: $font-main;
+  color: $primary-text-color;
+}
+
+h1 {
+  font-family: $font-title;
+  color: white;
+  font-size: 3em;
+  font-weight: lighter;
+}
+
+h2 {
+  font-family: $font-title;
+  color: #8e4242;
+  font-size: 2.5em;
+  font-weight: lighter;
+}
+
+p {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+#mainContent h1 {
+  font-size: 4em;
+  color: #8e4242;
+}
+
+.jumbotron-second h1 {
+  color: white;
+}
+
+#undergroundDiv p {
+  color: white;
+}
+
+#houseDiv p {
+  color: black;
+}
+
+#mineDiv {
+  h1 {
+    color: #fec142;
+  }
+  h2 {
+    color: #fec142;
+  }
+}
+
+footer {
+
+  color: #706142;
+
+  h1 {
+    font-family: $font-main;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #8e4242;
+  }
+}
+
+#aboutMe {
+  color: #8e4242;
+
+  h1 {
+    color: #8e4242;
+  }
+}
+
+.about-me-desc {
+  color: #8e4242;
+}
+
+.card {
+  h5 {
+    color: #8e4242;
+    font-weight: bold;
+  }
+
+  p {
+    color: black;
+  }
+}
+
+.card-skills {
+  h5 {
+    color: white;
+    font-weight: bold;
+  }
+
+  p {
+    color: black;
+  }
+}
+
+#skillsPage {
+  h1 {
+    font-size: 5em;
+    color: #e14b4b;
+  }
+  h2 {
+    color: white;
+  }
+}
+
+#portfolioPage {
+  .card {
+    h2 {
+      color: white;
+      font-family: $font-main;
+      font-weight: 500;
+    }
+  }
+
+  h1 {
+    color: #e14b4b;
+  }
+}
