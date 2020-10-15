@@ -29,7 +29,7 @@ the_post();
                 </div>
                 <div class="card-footer">
                     <div class="row mb-5">
-                        <div class="col-md"><a href="#" class="button-main">VIEW SITE</a></div>
+                        <div class="col-md"><a href="https://airsoft.yourlocaldev.com/" class="button-main">VIEW SITE</a></div>
                     </div>
                     <a href="https://github.com/HeyAero/airsoftonetheme" class="button-main github"><i class="fa fa-github" aria-hidden="true"></i>VIEW GITHUB</a>
                 </div>
@@ -41,6 +41,9 @@ the_post();
                     <h2 class="card-title text-center">LetsLead Gaming</h2>
                 </div>
                 <div class="card-footer">
+                    <div class="row mb-5">
+                        <div class="col-md"><a href="https://letslead.yourlocaldev.com/" class="button-main">VIEW SITE</a></div>
+                    </div>
                     <a href="https://github.com/HeyAero/letsleadgaming-theme" class="button-main github"><i class="fa fa-github" aria-hidden="true"></i>VIEW GITHUB</a>
                 </div>
             </div>
