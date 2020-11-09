@@ -22,7 +22,6 @@
                 <hr align="left">
                 <ul>
                     <li><a href="https://github.com/HeyAero">Github</a></li>
-                    <li><a href="https://www.fiverr.com/heyaero">Fiverr</a></li>
                     <li><a href="https://www.linkedin.com/in/aaron-yates-27007316b/">LinkedIn</a></li>
                 </ul>
             </div>

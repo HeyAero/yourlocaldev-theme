@@ -49,7 +49,7 @@ the_post();
                 <div class="card-body">
                     <h5 class="card-title">Freelancer - 2020-Current</h5>
                     <hr>
-                    <p class="card-text">Currently I am offering Freelance work for small projects as a Front-End Developer.</p>
+                    <p class="card-text">During my freetime I have made a number of projects using the WordPress CMS. I have created custom themes from scratch and basic plugins to create custom post types. I am now learning about React.</p>
                 </div>
             </div>
         </div>
@@ -76,7 +76,7 @@ the_post();
                 <div class="card-body">
                     <h5 class="card-title">Freelancer - 2020-Current</h5>
                     <hr>
-                    <p class="card-text">Since I returned from my trip away to Austria, I have been self-studying Front and (some) Back-End Development. Currently I am offering freelance work on Fiverr for small projects to bring my skills together. I have also made projects in my free time which you can view on my GitHub & Portfolio page.</p>
+                    <p class="card-text">Since I returned from my trip away to Austria, I have been self-studying Front and (some) Back-End Development. With what I have learnt I have been able to make projects in my free time which you can view on my GitHub & Portfolio page. Now I currently learning how to use and develop using React. So I can create dynamic single page applications.</p>
                 </div>
             </div>
         </div>

@@ -18,7 +18,7 @@ the_post();
             </div>
             <div class="row mt-5">
                 <div class="col-sm">
-                    If you would like to get in touch about freelance work, a CV request or anything else email
+                    If you would like to get in touch about project work, a CV request or anything else email
                     me or contact me via the social links I have provided. I will promise to get back to you
                     within 24 hours.
                 </div>
@@ -27,7 +27,6 @@ the_post();
                     <hr>
                     <ul>
                         <li><a href="https://www.linkedin.com/in/aaron-yates-27007316b/">LinkedIn</a></li>
-                        <li><a href="https://www.fiverr.com/heyaero">Fiverr</a></li>
                         <li><a href="https://github.com/HeyAero">GitHub</a></li>
                     </ul>
                 </div>

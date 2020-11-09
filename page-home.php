@@ -17,9 +17,6 @@ the_post();
                 <h1>Graphics Designer.</h1>
                 <h1>Web Nerd.</h1>
                 <div class="mt-5">
-                    <a href="https://www.fiverr.com/heyaero" class="button-main fiverr"><i class="fa fa-briefcase" aria-hidden="true"></i>HIRE ME ON FIVERR</a>
-                </div>
-                <div class="mt-5">
                     <a href="https://github.com/HeyAero/" class="button-main github"><i class="fa fa-github" aria-hidden="true"></i>GITHUB</a>
                 </div>
             </div>
@@ -32,8 +29,8 @@ the_post();
         <div id="houseDiv" class="row align-items-center">
             <div class="col-md-7 px-5 pb-5">
                 <h2>I'm Aaron, a web freelancer currently on the job hunt. I offer freelance on Fiverr as I build up my skills.</h2>
-                <p>I am a University of York Graduate specialising in Computer Science. I currently reside in the North-West of the UK. Currently I am learning more about the WordPress CMS, E-Commerce plugins such as WooCommerce and looking into back-end frankworks.</p>
-                <p>I plan to learn more about front-end development frameworks such as Vue.js and Angular. I also want to learn about back-end development frameworks such as Laravel.</p>
+                <p>I am a University of York Graduate specialising in Computer Science. I currently reside in the North-West of the UK. Currently I am learning more about the WordPress CMS, E-Commerce plugins such as WooCommerce.</p>
+                <p>I'm also learning about React, a JavaScript front-end development framework.</p>
                 <div class="my-4">
                     <a href="/about" class="button-main">LEARN MORE ABOUT ME</a>
                 </div>
