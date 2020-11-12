@@ -28,7 +28,7 @@ the_post();
         </div>
         <div id="houseDiv" class="row align-items-center">
             <div class="col-md-7 px-5 pb-5">
-                <h2>I'm Aaron, a web freelancer currently on the job hunt. I offer freelance on Fiverr as I build up my skills.</h2>
+                <h2>I'm Aaron, a web enthusiast and graphic nerd currently on the job hunt.</h2>
                 <p>I am a University of York Graduate specialising in Computer Science. I currently reside in the North-West of the UK. Currently I am learning more about the WordPress CMS, E-Commerce plugins such as WooCommerce.</p>
                 <p>I'm also learning about React, a JavaScript front-end development framework.</p>
                 <div class="my-4">
@@ -66,7 +66,7 @@ the_post();
         <div id="mineDiv" class="row align-items-center">
             <div class="col-md-7 px-5 pb-5">
                 <h2>Visit my skills page to learn about what I am capable of doing and using.</h2>
-                <p>My intrested in web development began at University. I have since built up skills in different languages, front-end and back-end development, graphics design and lots more.</p>
+                <p>My interested in web development began at University. I have since built up skills in different languages, front-end and back-end development, graphics design and lots more.</p>
                 <p>Check out my skills page too see the full list.</p>
                 <div class="my-5">
                     <a href="/skills" class="button-main mr-3">VIEW SKILLS</a>
